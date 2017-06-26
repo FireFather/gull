@@ -9,7 +9,7 @@ so it's now implemented using uint8 Kpk_gen[2][64][64][64]
 -compiler warnings resolved up to level 4 
 
 -benchmark and perft utilities added
-(type 'bench' and engine will write a dat-stamped text file with results)
+(type 'bench' and engine will write a date-stamped text file with results)
 
 -small change to phase/piece value calculation adding 3-5 elo: 
 
