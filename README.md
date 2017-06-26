@@ -1,5 +1,5 @@
 # seagull
-chess engine based on Gull 3
+chess engine based on Gull 3 with support for syzygy tablebases
 
 -source code cleaned up, simplified, and broken up into various source and header files 
 
