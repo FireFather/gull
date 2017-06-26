@@ -25,3 +25,7 @@ elo = +4.84715
 los = 0.999926
 
 I've included the Visual Studio project files (Seagull.vcxproj, etc)
+
+Norman Schmidt
+firefather@telenet.be
+6/26/2017
