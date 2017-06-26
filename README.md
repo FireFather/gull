@@ -1,5 +1,6 @@
 # seagull
 chess engine based on Gull 3 by Thinkingalot (Vadim Demichev)
+
 with support for syzygy tablebases
 
 -source code cleaned up, simplified, and broken up into various source and header files 
