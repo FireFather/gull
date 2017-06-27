@@ -6,7 +6,6 @@ https://sourceforge.net/projects/gullchess/
 - source code cleaned up, simplified, and broken up into various source and header files 
 
 - a couple of VS code analysis fixes (ex: gen_kpk() was causing stack exceed error) 
-so it's now implemented using uint8 Kpk_gen[2][64][64][64] 
 
 - compiler warnings resolved up to level 4 
 
