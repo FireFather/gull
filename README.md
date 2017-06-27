@@ -3,19 +3,19 @@ chess engine based on Gull 3 by Thinkingalot (Vadim Demichev)
 
 https://sourceforge.net/projects/gullchess/
 
-with support for syzygy tablebases
+- source code cleaned up, simplified, and broken up into various source and header files 
 
--source code cleaned up, simplified, and broken up into various source and header files 
-
--a couple of VS code analysis fixes (ex: gen_kpk() was causing stack exceed error) 
+- a couple of VS code analysis fixes (ex: gen_kpk() was causing stack exceed error) 
 so it's now implemented using uint8 Kpk_gen[2][64][64][64] 
 
--compiler warnings resolved up to level 4 
+- compiler warnings resolved up to level 4 
 
--benchmark and perft utilities added
+- benchmarkutility added
 (type 'bench' and engine will write a date-stamped text file with results)
 
--small change to phase/piece value calculation adding 3-5 elo: 
+- small change to phase/piece value calculation adding 3-5 elo: 
+
+- support for syzygy tablebases
 
 Settings = Gauntlet/128MB/1000ms+100ms/M 500cp for 6 moves, D 120 moves/PGN:10000.pgn(10000)	
 (Avg game length = 13.252 sec)	
