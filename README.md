@@ -9,7 +9,7 @@ https://sourceforge.net/projects/gullchess/
 
 - compiler warnings resolved up to level 4 
 
-- benchmarkutility added
+- benchmark utility added
 (type 'bench' and engine will write a date-stamped text file with results)
 
 - small change to phase/piece value calculation adding 3-5 elo: 
