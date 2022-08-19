@@ -19,6 +19,11 @@ https://sourceforge.net/projects/gullchess/
 Settings = Gauntlet/128MB/1000ms+100ms/M 500cp for 6 moves, D 120 moves/PGN:10000.pgn(10000)	
 (Avg game length = 13.252 sec)	
 
+| engine         | games    | win      | loss     | draw      | timeouts  | win%      | elo        | los        
+| :------------: | :------: | :------: | :------: | :------:  | :------:  | :------:  | :--------: | :------:  
+| Seagull 138    | 38207    | +9795    | -9262    | =19150    | 0         | 50.7 %    | +4.85	elo  | 100%
+| Gull 3         | 38207    | +9262    | -9795    | =9262     | 0         | 49.3%     | -4.85 elo  | 0%
+
 1 Seagull 138 : 3002 9795/38207 (+9795,=19150,-9262) 50.7 %          
 2 Gull 3      : 2998 9262/38207 (+9262,=19150,-9795) 49.3 %
 
