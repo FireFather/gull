@@ -16,6 +16,18 @@ https://sourceforge.net/projects/gullchess/
 
 - support for syzygy tablebases
 
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_1.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_2.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_3.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_4.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_5.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_6.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_7.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_8.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_9.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_10.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_11.bmp)
+
 Settings = Gauntlet/128MB/1000ms+100ms/M 500cp for 6 moves, D 120 moves/PGN:10000.pgn(10000)	
 (Avg game length = 13.252 sec)	
 
@@ -33,5 +45,5 @@ los = 0.999926
 I've included the Visual Studio project files (Seagull.vcxproj, etc)
 
 Norman Schmidt
-firefather@telenet.be
+gullfather@telenet.be
 6/26/2017
