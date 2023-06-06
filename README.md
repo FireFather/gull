@@ -15,15 +15,11 @@ https://sourceforge.net/projects/gullchess/
 - small change to phase/piece value calculation adding 3-5 elo: 
 
 - support for syzygy tablebases
+
 ![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_7.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_8.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_9.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_1.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_2.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_3.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_4.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_5.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/gull/master/logos/gull_6.bmp)
 
 Settings = Gauntlet/128MB/1000ms+100ms/M 500cp for 6 moves, D 120 moves/PGN:10000.pgn(10000)	
 (Avg game length = 13.252 sec)	
