@@ -1,5 +1,5 @@
-# seagull
-chess engine based on Gull 3 by Thinkingalot (Vadim Demichev)
+# gull
+Gull by Thinkingalot (Vadim Demichev)
 
 https://sourceforge.net/projects/gullchess/
 
