@@ -1,5 +1,5 @@
 # gull
-Gull by Thinkingalot (Vadim Demichev)
+**Gull by Thinkingalot (Vadim Demichev)**
 
 https://sourceforge.net/projects/gullchess/
 
